@@ -1,0 +1,14 @@
+{
+  "name": "apptokek",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "kam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
