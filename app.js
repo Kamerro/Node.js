@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 const port = 3000;
-let item = "<h1>KURWA XD</h1> renderujemy całe html i je wstawiamy pod routy";
+let item = "<h1>OKOK</h1> renderujemy całe html i je wstawiamy pod routy";
 app.get("/", (req, res) => {
   res.send("Hello, Express!");
 });
