@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const port = 3000;
 let item =
-  "<h1>OKOK absolutely new branch</h1> renderujemy całe html i je wstawiamy pod routy";
+  "<h1>OKOK absolutely new brancheee</h1> renderujemy całe html i je wstawiamy pod routy";
 app.get("/", (req, res) => {
   res.send("Hello, Express!");
 });
